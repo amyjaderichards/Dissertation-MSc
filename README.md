@@ -14,4 +14,4 @@ Attitudes towards the use of fossil fuels are quickly changing for the worst as 
 - LaTeX
 
 *Files*
-**Data_cleanup_2011.R**, **Data_cleanup_2012.R** and **Data_cleanup_2013.R** are the scripts used to clean the raw data, renaming columns and dealing with missing data etc. The output of the cleaning are the files ending in **_clean.csv**. The script **read_in_clean_data.R** is used in order to read in the CSV files for investigation.
+- **Data_cleanup_2011.R**, **Data_cleanup_2012.R** and **Data_cleanup_2013.R** are the scripts used to clean the raw data, renaming columns and dealing with missing data etc. The output of the cleaning are the files ending in **_clean.csv**. The script **read_in_clean_data.R** is used in order to read in the CSV files for investigation.
